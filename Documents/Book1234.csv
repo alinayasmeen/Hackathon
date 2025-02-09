@@ -1,0 +1,6 @@
+Marketplace Builder 2025 Hackathon,,,,,,,
+Test Case Id,Test Case Description,Test Steps,Expected Result,Actual Result,Status,Severity Level,Remarks
+TC001,Validate Product Listing Page,Open Product Page & Verify Products,Products Displayed Correctly,Products Displayed Correctly,Passed,Low,No Issue Found
+TC002,Test API Error Handling,Disconnect API & Refresh Page,Show Fallback UI With Error Message,Error Message Shown,Passed,Medium ,Handled Correctly
+TC003,Check Cart Functionality,Add Product To Cart & Verify Cart Content,Cart Updates With Added Products,Cart Updates As Expected,Passed,High,Works As Expected
+TC004,Ensure Responsiveness on Mobile,Resize Browser Window & Check Layout & Also Use  LambdaTest,Layout Adjust Properly To the Screen Size,Responsive Layout Working As Expected,Passed,Medium ,Test Successful
